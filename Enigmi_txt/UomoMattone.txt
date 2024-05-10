@@ -1,0 +1,9 @@
+Vidotti Simone
+
+Problema:
+In un'Area circolare di 20 m^2, c'è un uomo al centro e un mattone in un punto a caso all'interno
+dell'area. Un passo dell'uomo è di un metro. La lunghezza del mattone è di un metro. 
+Considerando tutte le condizioni a livello ideale, quante probabilità ci sono in percentuale
+che l'uomo inciampi sul mattone ?
+
+Risolvi l'enigma utilizzando python3.
